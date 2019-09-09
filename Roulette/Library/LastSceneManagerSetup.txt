@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/\u76F4\u4E4B/Desktop/Unity\u7D20\u6750/Unity\u306E\u6559\u79D1\u66F8\u7D20\u6750/\u30B5\u30F3\u30D7\u30EB\u30B2\u30FC\u30E0PC\u7248/Chapter5/CatEscape/Assets/Scenes/SampleScene.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
